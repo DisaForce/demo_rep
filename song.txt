@@ -5,7 +5,6 @@ on this their chosen battle field
 
 
 here i add my own content
-
-here two rows of some characters:
-abc
-defg
+here i going to push to git ower names:
+dias 
+dastan
